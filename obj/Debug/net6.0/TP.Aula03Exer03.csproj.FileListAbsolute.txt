@@ -1,0 +1,15 @@
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula03Exer03\TP.Aula03Exer03\bin\Debug\net6.0\TP.Aula03Exer03.exe
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula03Exer03\TP.Aula03Exer03\bin\Debug\net6.0\TP.Aula03Exer03.deps.json
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula03Exer03\TP.Aula03Exer03\bin\Debug\net6.0\TP.Aula03Exer03.runtimeconfig.json
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula03Exer03\TP.Aula03Exer03\bin\Debug\net6.0\TP.Aula03Exer03.dll
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula03Exer03\TP.Aula03Exer03\bin\Debug\net6.0\TP.Aula03Exer03.pdb
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula03Exer03\TP.Aula03Exer03\obj\Debug\net6.0\TP.Aula03Exer03.csproj.AssemblyReference.cache
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula03Exer03\TP.Aula03Exer03\obj\Debug\net6.0\TP.Aula03Exer03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula03Exer03\TP.Aula03Exer03\obj\Debug\net6.0\TP.Aula03Exer03.AssemblyInfoInputs.cache
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula03Exer03\TP.Aula03Exer03\obj\Debug\net6.0\TP.Aula03Exer03.AssemblyInfo.cs
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula03Exer03\TP.Aula03Exer03\obj\Debug\net6.0\TP.Aula03Exer03.csproj.CoreCompileInputs.cache
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula03Exer03\TP.Aula03Exer03\obj\Debug\net6.0\TP.Aula03Exer03.dll
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula03Exer03\TP.Aula03Exer03\obj\Debug\net6.0\refint\TP.Aula03Exer03.dll
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula03Exer03\TP.Aula03Exer03\obj\Debug\net6.0\TP.Aula03Exer03.pdb
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula03Exer03\TP.Aula03Exer03\obj\Debug\net6.0\TP.Aula03Exer03.genruntimeconfig.cache
+C:\Users\lugan\OneDrive\Área de Trabalho\Técnicas de Programação\TP.Aula03Exer03\TP.Aula03Exer03\obj\Debug\net6.0\ref\TP.Aula03Exer03.dll
